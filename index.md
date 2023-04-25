@@ -35,9 +35,9 @@ Cambia o vende a un excelente precio en un día.
 {% include button.html text="FACEBOOK" icon="github" link="https://www.facebook.com/kavakmx/" color="#0366d6" %} {% include button.html text="YOUTUBE" link="https://www.youtube.com/channel/UCEPy7UhWyPEcF490cJFOIPA" color="#f68140" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/kavakmx/" color="#0d94e7" %} {% include button.html text="TIKTOK" link="https://www.tiktok.com/@kavakmx" %}
 
 ## HONDA CIVIC 2007
+$75,000 MXN
 
 **DETALLES**
-
 - Factura de Seminuevos (con copia de origen) 
 - Automático 
 - Tenencias al 2020 
@@ -56,8 +56,30 @@ COLOR DEL EXTERIOR: Gris
 
 ![image](https://user-images.githubusercontent.com/127909090/234185203-f9c1e265-5a8e-4c8a-b64f-50d96fe6e7d1.png)
 
-## Features
-## Features
+## Chevrolet aveo 2019
+$135,000 MXN
+
+## DETALLES
+- Factura original
+- Único dueño
+- Electrico
+- Estándar 
+- Aire acondicionado
+- Naciona
+- Excelentes condiciones
+
+KILOMETRAJE: 67.000 Kilometros
+
+TRANSMISION: Manual
+
+COLOR DEL EXTERIOR: Gris
+
+TIPO DE COMBUSTIBLE: Gasolina 
+
+TAMAÑO DEL MOTOR: -1 L
+
+![image](https://user-images.githubusercontent.com/127909090/234194115-be19f14a-6646-404a-a0fd-736e349a7670.png)
+
 ## Features
 ## Examples
 
