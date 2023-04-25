@@ -38,12 +38,6 @@ Cambia o vende a un excelente precio en un día.
 
 **DETALLES**
 
-KILOMETRAJE: 119.00 kilometros
-
-TRANSMISION: Automatica
-
-COLOR DEL EXTERIOR: Gris
-
 - Factura de Seminuevos (con copia de origen) 
 - Automático 
 - Tenencias al 2020 
@@ -53,6 +47,12 @@ COLOR DEL EXTERIOR: Gris
 - Espejos eléctricos 
 - Buen manejo 
 - Interiores en buen estado
+
+KILOMETRAJE: 119.00 kilometros
+
+TRANSMISION: Automatica
+
+COLOR DEL EXTERIOR: Gris
 
 ![image](https://user-images.githubusercontent.com/127909090/234185203-f9c1e265-5a8e-4c8a-b64f-50d96fe6e7d1.png)
 
