@@ -4,7 +4,7 @@ feature_text: |
   ## Venta de Carros
   Transformamos la compra y venta de autos seminuevos miles de autos certificados y garantizados
 feature_image: "https://picsum.photos/1300/400?image=989"
-excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
+excerpt: "Alembic is a starting point for [Venta de Carros](https://www.kavak.com/mx/blog/categorias/caracteristicas-de-autos) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 ---
 
 Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get rolling immediately. Install it, configure it, tweak it, push it.
