@@ -37,9 +37,11 @@ Cambia o vende a un excelente precio en un día.
 ## HONDA CIVIC 2007
 
 **DETALLES**
+
 KILOMETRAJE: 119.00 kilometros
 TRANSMISION: Automatica
 COLOR DEL EXTERIOR: Gris
+
 - Factura de Seminuevos (con copia de origen) 
 - Automático 
 - Tenencias al 2020 
