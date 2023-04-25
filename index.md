@@ -34,27 +34,48 @@ Cambia o vende a un excelente precio en un día.
 
 {% include button.html text="FACEBOOK" icon="github" link="https://www.facebook.com/kavakmx/" color="#0366d6" %} {% include button.html text="YOUTUBE" link="https://www.youtube.com/channel/UCEPy7UhWyPEcF490cJFOIPA" color="#f68140" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/kavakmx/" color="#0d94e7" %} {% include button.html text="TIKTOK" link="https://www.tiktok.com/@kavakmx" %}
 
-## HONDA CIVIC 2007
-$75,000 MXN
+## 2015 Nissan Versa
+$179,900 MXN
 
-**DETALLES**
-- Factura de Seminuevos (con copia de origen) 
-- Automático 
-- Tenencias al 2020 
-- Motor 1.8 LTS de 4 cilindros 
-- Quemacocos eléctrico 
-- Bolsas de aire 
-- Espejos eléctricos 
-- Buen manejo 
-- Interiores en buen estado
+**DESCRIPCION**
+- Factura original de agencia 
+- Tenencias a 2023 
+- Verificado 
+- Circula diario
+- 4 cilindros
+- Motor 1.6 L 
+- Asientos en piel conservados
+- Vidrios delantero y traseros
+- Electricos
+- Seguros electricos
+- Espejos eléctricos
+- Unico dueño
+- Placas de CDMX
+- Tarjeta de circulacion vigente
+- Manuales de propietario
+- Motor y caja al 100
+- Rines originales  
+- Llantas 3/4 de vida
 
-Kilometraje: 119.000 kM
+Kilometraje: 78.000 kM
 
 Transmison: Automatica
 
 Color del exterior: Gris
 
-![image](https://user-images.githubusercontent.com/127909090/234185203-f9c1e265-5a8e-4c8a-b64f-50d96fe6e7d1.png)
+Color del ineterior: Negro
+
+![image](https://user-images.githubusercontent.com/127909090/234411405-420d3546-5a87-4a25-bc44-ae73a63c59e3.png)
+![image](https://user-images.githubusercontent.com/127909090/234411436-4c3b0a72-0f8d-4e56-a54c-7f53196007a1.png)
+![image](https://user-images.githubusercontent.com/127909090/234411883-c58490de-fab2-49df-bcbc-d68660d3bfab.png)
+![image](https://user-images.githubusercontent.com/127909090/234411896-8a736740-421b-41c8-b5e7-2bc0b3848e2c.png)
+![image](https://user-images.githubusercontent.com/127909090/234411909-b78e3de8-b4a0-4cd6-999d-7d956bc2be2e.png)
+![image](https://user-images.githubusercontent.com/127909090/234411938-14f3851a-bb58-4b58-b9ad-91867dffc502.png)
+![image](https://user-images.githubusercontent.com/127909090/234412022-073e1ba8-29ae-48a9-b66d-3ceaacd6c095.png)
+![image](https://user-images.githubusercontent.com/127909090/234412050-335633cd-dd4b-4088-be55-c6b658a5ce81.png)
+![image](https://user-images.githubusercontent.com/127909090/234412070-2834fd76-99c9-4651-99a9-1d97b22cb4e6.png)
+![image](https://user-images.githubusercontent.com/127909090/234412089-0f45e0c0-010a-4db9-9a6f-f2f2b83002f6.png)
+
 
 ## Chevrolet aveo 2019
 $135,000 MXN
