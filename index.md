@@ -1,7 +1,8 @@
 ---
-title: Venta de Carros
+title: Transformamos la compra y venta de autos seminuevos
+Miles de autos certificados y garantizados
 feature_text: |
-  ## Alembic
+  ## Venta de Carros
   A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
 feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
