@@ -39,7 +39,9 @@ Cambia o vende a un excelente precio en un día.
 **DETALLES**
 
 KILOMETRAJE: 119.00 kilometros
+
 TRANSMISION: Automatica
+
 COLOR DEL EXTERIOR: Gris
 
 - Factura de Seminuevos (con copia de origen) 
