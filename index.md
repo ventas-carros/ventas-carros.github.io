@@ -80,7 +80,7 @@ Color del ineterior: Negro
 ## Chevrolet aveo 2019
 $135,000 MXN
 
-## DETALLES
+## DESCRIPCION
 - Factura original
 - Único dueño
 - Electrico
@@ -105,6 +105,50 @@ COolor del exterior: Gris
 ![image](https://user-images.githubusercontent.com/127909090/234407525-825601d3-b412-415e-947b-187eced7e226.png)
 
 
+## 2012 Chevrolet Sonic
+$122,000 mxn
+
+## DECRIPCION
+- Sonic LTZ
+- Factura seminuevos chevrolet
+- Tenencias a 2022
+- 4 cilindros
+- motor 1.6 L
+- Circula diario
+- Vidrios delanteros y traseros electricos
+- Aire acondicionado
+- Seguros y espejos electricos
+- Bolsas de aire
+- Rines de aluminio originales
+- Placas del Estado de Mexico
+- 2 Dueños
+- Motor y caja al 100
+- Llantas 3/4 de vida
+
+Kilometraje: 72,500 KM
+
+Transmision: Automatica
+
+Color del exterior: Gris
+
+Color del interior: Gris
+
+
+![image](https://user-images.githubusercontent.com/127909090/234415828-ca8d3db8-a0ec-432e-a50e-f70c152906f4.png)
+![image](https://user-images.githubusercontent.com/127909090/234415838-4aa45138-630e-4c38-bef2-ece10f2be3ba.png)
+![image](https://user-images.githubusercontent.com/127909090/234415850-c9484e8c-d80a-4737-a9fd-cc9d888db6fe.png)
+![image](https://user-images.githubusercontent.com/127909090/234415859-fafc288e-6b79-4c60-afda-e4fc879d4edd.png)
+![image](https://user-images.githubusercontent.com/127909090/234415886-91d5d56a-e616-47b1-a887-7d0cc3d8b52e.png)
+![image](https://user-images.githubusercontent.com/127909090/234415899-d3ec703d-7dfd-4e89-bd68-99d40be3f980.png)
+![image](https://user-images.githubusercontent.com/127909090/234415911-7e8c1ac0-7d8d-404a-ab7d-173d59f1a90e.png)
+![image](https://user-images.githubusercontent.com/127909090/234415918-39279a41-b0ed-4592-8a43-843aa96e4b33.png)
+![image](https://user-images.githubusercontent.com/127909090/234415926-23deaf0a-8807-409a-a889-e7ea6a2351b3.png)
+![image](https://user-images.githubusercontent.com/127909090/234415938-69e5ed39-8a80-42f9-8403-e1ee317401c2.png)
+
+
+## Features
+## Features
+## Features
 ## Features
 ## Examples
 
