@@ -16,15 +16,21 @@ Cambia o vende a un excelente precio en un día.
 ---
 
 ¿Sabes cuánto vale tu auto? ¡Más de lo que imaginas!
-En [Venta de Carros](https://www.kavak.com/mx/blog/categorias/caracteristicas-de-autos) te lo compramos el mismo día. Cotiza tu auto hoy mismo desde casa. Recibe una oferta al instante. Agenda día y hora para la inspección. ¡Olvídate de lo complicado!
+En [Venta de Carros](https://www.kavak.com/mx/blog/categorias/caracteristicas-de-autos) te lo compramos el mismo día. Cotiza tu auto hoy mismo desde casa. Recibe una oferta al instante. Agenda día y hora para la inspección. 
+
+¡Olvídate de lo complicado!
+
 Cambia o vende a un excelente precio en un día.
 ¡Vende tu auto! Encuentra una de las mejores ofertas
- 1-Cuéntanos sobre tu auto
+
+1-Cuéntanos sobre tu auto
  Ingresa año, marca, modelo, versión, color, kilometraje y código postal donde se encuentra el auto.
+ 
  2-Te damos ofertas al instante
  Deja tu auto a cuenta por un Kavak, pago al instante, monto a meses o pago a consignación.
+ 
  3-Elige la hora y el lugar para realizar la inspección
- Revisamos 240 puntos y te contamos todo sobre el estado de tu auto a nivel mecánico, estético y legal sin costo para confirmarte tu oferta final."
+ Revisamos 240 puntos y te contamos todo sobre el estado de tu auto a nivel mecánico, estético y legal sin costo para confirmarte tu oferta final.
 
 {% include button.html text="Fork it" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Buy me a coffee ☕️" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %}
 
