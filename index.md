@@ -34,24 +34,27 @@ Cambia o vende a un excelente precio en un día.
 
 {% include button.html text="FACEBOOK" icon="github" link="https://www.facebook.com/kavakmx/" color="#0366d6" %} {% include button.html text="YOUTUBE" link="https://www.youtube.com/channel/UCEPy7UhWyPEcF490cJFOIPA" color="#f68140" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/kavakmx/" color="#0d94e7" %} {% include button.html text="TIKTOK" link="https://www.tiktok.com/@kavakmx" %}
 
+## HONDA CIVIC 2007
+
+**DETALLES**
+KILOMETRAJE: 119.00 kilometros
+TRANSMISION: Automatica
+COLOR DEL EXTERIOR: Gris
+- Factura de Seminuevos (con copia de origen) 
+- Automático 
+- Tenencias al 2020 
+- Motor 1.8 LTS de 4 cilindros 
+- Quemacocos eléctrico 
+- Bolsas de aire 
+- Espejos eléctricos 
+- Buen manejo 
+- Interiores en buen estado
+
+![image](https://user-images.githubusercontent.com/127909090/234185203-f9c1e265-5a8e-4c8a-b64f-50d96fe6e7d1.png)
+
 ## Features
-
-- Available as a **theme gem** and **GitHub Pages** theme
-- Clear and elegant design that can be used out of the box or as solid starting point
-- Tested in all major browsers, including **IE and Edge**
-- Built in **Service Worker** so it can work offline and on slow connections
-- **Configurable colours** and typography in a single settings file
-- Extensive set of **shortcodes** to include various elements; such as buttons, icons, figure images and more
-- Solid **typographic framework** from [Sassline](https://sassline.com/)
-- Configurable navigation via a single file
-- Modular Jekyll components
-- Post category support in the form of a single post index page grouped by category
-- Built in live search using JavaScript
-- **Contact form** built in using [Formspree](https://formspree.io/)
-- Designed with **[Siteleaf](https://www.siteleaf.com/)** in mind
-- Has 9 of the most popular networks as performant sharing buttons
-- Has documentation
-
+## Features
+## Features
 ## Examples
 
 Here are a few examples of Alembic out in the wild being used in a variety of ways:
