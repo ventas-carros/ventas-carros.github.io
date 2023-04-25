@@ -1,6 +1,5 @@
 ---
-title: Transformamos la compra y venta de autos seminuevos
-Miles de autos certificados y garantizados
+title: Transformamos la compra y venta de autos seminuevos miles de autos certificados y garantizados
 feature_text: |
   ## Venta de Carros
   A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
