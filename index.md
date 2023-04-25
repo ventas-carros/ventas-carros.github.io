@@ -48,11 +48,11 @@ $75,000 MXN
 - Buen manejo 
 - Interiores en buen estado
 
-KILOMETRAJE: 119.00 kilometros
+Kilometraje: 119.000 kM
 
-TRANSMISION: Automatica
+Transmison: Automatica
 
-COLOR DEL EXTERIOR: Gris
+Color del exterior: Gris
 
 ![image](https://user-images.githubusercontent.com/127909090/234185203-f9c1e265-5a8e-4c8a-b64f-50d96fe6e7d1.png)
 
@@ -68,17 +68,21 @@ $135,000 MXN
 - Naciona
 - Excelentes condiciones
 
-KILOMETRAJE: 67.000 Kilometros
+Kilometraje: 67.000 KM
 
-TRANSMISION: Manual
+Transmision: Manual
 
-COLOR DEL EXTERIOR: Gris
+COolor del exterior: Gris
 
-TIPO DE COMBUSTIBLE: Gasolina 
-
-TAMAÑO DEL MOTOR: -1 L
 
 ![image](https://user-images.githubusercontent.com/127909090/234194115-be19f14a-6646-404a-a0fd-736e349a7670.png)
+![image](https://user-images.githubusercontent.com/127909090/234407339-351e62b2-ba6c-4769-90de-5b433e17e172.png)
+![image](https://user-images.githubusercontent.com/127909090/234407373-f3fcb95a-7142-4fa6-9ea7-a0e1dbf57efb.png)
+![image](https://user-images.githubusercontent.com/127909090/234407431-4d47be45-a0c2-449a-ae11-44551eb30ae4.png)
+![image](https://user-images.githubusercontent.com/127909090/234407469-4d31f9fe-8f19-4086-b3e7-5585afa97621.png)
+![image](https://user-images.githubusercontent.com/127909090/234407502-3c94132b-8572-4523-9e97-9541dbdf65dd.png)
+![image](https://user-images.githubusercontent.com/127909090/234407525-825601d3-b412-415e-947b-187eced7e226.png)
+
 
 ## Features
 ## Examples
