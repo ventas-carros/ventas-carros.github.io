@@ -165,9 +165,13 @@ $116,000 MXN
 - Unico dueño
 
 Kilometraje: 88,000 KM
+
 Transmision: Manual
+
 Color del exterior: Blanco
+
 Color del interior: Gris
+
 
 ![image](https://user-images.githubusercontent.com/127909090/234443415-12669e05-f98f-4a54-9a78-7fab91b9fb11.png)
 ![image](https://user-images.githubusercontent.com/127909090/234443441-04a9ad99-5371-45f0-a3a0-d6de88798c50.png)
@@ -183,7 +187,8 @@ Color del interior: Gris
 ![image](https://user-images.githubusercontent.com/127909090/234443625-5485cde3-dc3c-48b7-9663-970a38b7c3e5.png)
 
 
-UBICACION: https://goo.gl/maps/7rAhd7Ybj379EdHL8
+UBICACION:
+https://goo.gl/maps/7rAhd7Ybj379EdHL8
 
 
 
