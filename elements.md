@@ -8,7 +8,7 @@ Prioriza tu seguridad y elige sitios publicos que esten bien iluminados. Evita l
 aside: true
 ---
 
-# Heading 1
+# Comparte informacion con cautela
 
 ## Heading 2
 
