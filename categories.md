@@ -1,6 +1,6 @@
 ---
 title: Marcas
-layout: categories
+layout: Marcas
 excerpt: "Category index"
 aside: true
 ---
