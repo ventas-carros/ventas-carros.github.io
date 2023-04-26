@@ -1,6 +1,6 @@
 ---
-title: Marcas
-layout: Marcas
-excerpt: "Categorias de carros"
+title: Categories
+layout: categories
+excerpt: "Category index"
 aside: true
 ---
