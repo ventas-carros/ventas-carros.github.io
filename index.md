@@ -1,7 +1,7 @@
 ---
-title: Cambia o vende tu auto ahora
+title: Venta de Carros
 feature_text: |
-  ## Venta de Carros
+  ## Cambia o vende tu auto ahora
   Transformamos la compra y venta de autos seminuevos miles de autos certificados y garantizados
 feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "Alembic is a starting point for [Venta de Carros](https://www.kavak.com/mx/blog/categorias/caracteristicas-de-autos) ¡Olvídate de lo complicado!
