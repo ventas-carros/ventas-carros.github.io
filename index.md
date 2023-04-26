@@ -187,9 +187,7 @@ Color del interior: Gris
 ![image](https://user-images.githubusercontent.com/127909090/234443625-5485cde3-dc3c-48b7-9663-970a38b7c3e5.png)
 
 
-UBICACION:
-
-https://goo.gl/maps/7rAhd7Ybj379EdHL8
+UBICACION DE SUCURSAL [AQUI](https://goo.gl/maps/7rAhd7Ybj379EdHL8)
 
 
 
