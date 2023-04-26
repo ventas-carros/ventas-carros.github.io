@@ -187,6 +187,47 @@ Color del interior: Gris
 ![image](https://user-images.githubusercontent.com/127909090/234443625-5485cde3-dc3c-48b7-9663-970a38b7c3e5.png)
 
 
+## 2007 Dodge Nitro
+$136,000
+
+## DESCRIPCION
+- Modelo 2007
+- Factura original de agencia
+- Tenencias a 2023
+- Verificado
+- 6 cilindros
+- Motor 3.7 L
+- Circula diario
+- Seguros y espejos electricos
+- Asientos en tela en muy buen estado de conservacion
+- vidrios delnateros y traseros electricos 
+- Aire acondicionado enfriando
+- Faros de niebla
+- Llantas 3/4 de vida
+- Rine de aluminio original 17
+- Motor y caja al 100
+- Manuales de propietario
+
+Kilometraje: 155,000 KM
+
+Transmision: Automatica
+
+Color de exterior: Negro
+
+Color del interior: Gris
+
+![image](https://user-images.githubusercontent.com/127909090/234450566-42b03be9-b034-4263-894a-d0d9b4278eca.png)
+![image](https://user-images.githubusercontent.com/127909090/234450613-c2fb4344-0280-422b-b6f1-84bdbf7b730c.png)
+![image](https://user-images.githubusercontent.com/127909090/234450650-893a1dae-d5db-4700-8d57-29199f9eaa7e.png)
+![image](https://user-images.githubusercontent.com/127909090/234450667-b9aa47ff-c66a-4484-8ac5-238f2a5300b8.png)
+![image](https://user-images.githubusercontent.com/127909090/234450681-e0d80194-b6da-47d5-b195-528f6861b68a.png)
+![image](https://user-images.githubusercontent.com/127909090/234450698-b5cd681d-7a8d-47cb-b8fd-3ee165a79f10.png)
+![image](https://user-images.githubusercontent.com/127909090/234450720-a7663161-06e6-4be4-a6c7-aa56e3e50339.png)
+![image](https://user-images.githubusercontent.com/127909090/234450740-5d45cf98-3364-414d-beb4-260a56c1d242.png)
+![image](https://user-images.githubusercontent.com/127909090/234450758-dbf1e5ac-35d4-4755-a6f9-d1c2ae613971.png)
+![image](https://user-images.githubusercontent.com/127909090/234450779-250018fa-1b7d-481c-a01c-1e55e94bc247.png)
+
+
 UBICACION DE SUCURSAL [AQUI](https://goo.gl/maps/7rAhd7Ybj379EdHL8)
 
 
@@ -195,40 +236,6 @@ UBICACION DE SUCURSAL [AQUI](https://goo.gl/maps/7rAhd7Ybj379EdHL8)
 
 
 ## Features
-## Examples
-
-Here are a few examples of Alembic out in the wild being used in a variety of ways:
-
-- [bawejakunal.github.io](https://bawejakunal.github.io/)
-- [case2111.github.io](https://case2111.github.io/)
-- [karateca.org](https://www.karateca.org/)
-
-## Installation
-
-### Quick setup
-
-To give you a running start I've put together some starter kits that you can download, fork or even deploy immediately:
-
-- ⚗️🍨 Vanilla Jekyll starter kit  
-  [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/daviddarnes/alembic-kit){:style="background: none"}
-- ⚗️🌲 Forestry starter kit  
-  [![Deploy to Forestry](https://assets.forestry.io/import-to-forestry.svg)](https://app.forestry.io/quick-start?repo=daviddarnes/alembic-forestry-kit&engine=jekyll){:style="background: none"}  
-  [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/daviddarnes/alembic-forestry-kit){:style="background: none"}
-- ⚗️💠 Netlify CMS starter kit  
-  [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/daviddarnes/alembic-netlifycms-kit&stack=cms){:style="background: none"}
-
-- ⚗️:octocat: GitHub Pages with remote theme kit  
-  {% include button.html text="Download kit" link="https://github.com/daviddarnes/alembic-kit/archive/remote-theme.zip" color="#24292e" %}
-- ⚗️🚀 Stackbit starter kit  
-  [![Create with Stackbit](https://assets.stackbit.com/badge/create-with-stackbit.svg)](https://app.stackbit.com/create?theme=https://github.com/daviddarnes/alembic-stackbit-kit){:style="background: none"}
-
-### As a Jekyll theme
-
-1. Add `gem "alembic-jekyll-theme"` to your `Gemfile` to add the theme as a dependancy
-2. Run the command `bundle install` in the root of project to install the theme and its dependancies
-3. Add `theme: alembic-jekyll-theme` to your `_config.yml` file to set the site theme
-4. Run `bundle exec jekyll serve` to build and serve your site
-5. Done! Use the [configuration](#configuration) documentation and the example [`_config.yml`](https://github.com/daviddarnes/alembic/blob/master/_config.yml) file to set things like the navigation, contact form and social sharing buttons
 
 ### As a GitHub Pages remote theme
 
