@@ -1,7 +1,7 @@
 ---
-title: Thanks!
+title: GRACIAS!
 indexing: false
 sitemap: false
 ---
 
-Thanks for getting in touch! We'll respond as soon as we can.
+Gracias por visitar nuestra pagina :)
