@@ -20,7 +20,7 @@ aside: true
 
 ###### Heading 6
 
-<small>A small elemen...t</small>
+<small>A small element</small>
 
 [A link](https://david.darn.es "A link")
 
